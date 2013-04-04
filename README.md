@@ -17,6 +17,9 @@ java -jar TMAN.jar N K <Type>
 
 <type> -> O or S or D
 
+here N -  number of nodes
+K - neighbor list per iteration
+
 Development environment : Eclipse SDK for Java Developers
 
 Operating system used : Windows 7
